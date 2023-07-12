@@ -14,7 +14,7 @@ copas hasil termux ke
 
 1sumber.txt
 
-cd storage/ping
+cd /storage/ping
 
 ato
 
